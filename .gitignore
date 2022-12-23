@@ -22,6 +22,11 @@ bin/
 *.iws
 *.iml
 *.ipr
+*.csv
+gradle/
+gradlew
+gradlew.bat
+chromedriver
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
